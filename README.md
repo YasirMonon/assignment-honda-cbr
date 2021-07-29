@@ -1,6 +1,6 @@
-# Honda CBR Assignment by Yasir Monon
+# Honda CBR Assignment (Responsive)
 
-[Website](https://assignment-honda.netlify.app/)
+[Click Here for Live Link / Website](https://assignment-honda.netlify.app/)
 
 A Dummy Online Bike's Page of Honda CBR.
 
