@@ -1,4 +1,4 @@
-# Honda CBR Assignment by Yasir Monon
+# Honda CBR Assignment (Responsive)
 
 [Website](https://assignment-honda.netlify.app/)
 
