@@ -1,0 +1,51 @@
+/* google font poppins */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header's custom background color */
+.custom-bg-header{
+    background-color: #264653;
+}
+/* paragraph custom css */
+.custom-p-font{
+    font-size: 16px;
+    font-weight:300;
+}
+/* heading custom css */
+.h1-font-size{
+    font-size: 48px;
+    font-weight: 600;
+}
+/* button custom style css */
+.btn-custom-orange-color{
+    background-color: #E76F51;
+    padding: 10px 46px;
+    border: 1px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+.p-color-size{
+    color: #E76F51;
+    font-size:16px ;
+    font-weight: 600;
+}
+/* grayscale images */
+.grayscale{
+    filter: grayscale(100%);
+}
+.custom-orange-color{
+    color:  #E76F51;
+    ;
+}
+.star-color{
+    color: #E76F51;
+}
+.star-blank{
+    color: #E76F51;
+}
+/* accordion paragraph */
+.custom-accordion-paragraph{
+    color: #7E848C;
+    font-size: 16px;
+    font-weight: normal;
+}
